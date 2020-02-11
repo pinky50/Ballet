@@ -1,0 +1,77 @@
+.section-heading span{
+    color: #F79F1F;
+}
+
+.line{
+    background: #F79F1F;
+}
+
+#myBtn {
+    background-color: #F79F1F;
+}
+
+.nav-collapse a:hover {
+    color: #F79F1F;
+}
+
+.nav-collapse a:active, .nav-collapse .active a {
+    color:#F79F1F ;
+}
+
+#banner-image .display-table .display-cell .banner-content1 span {
+    color: #F79F1F ;
+}
+#banner-image .display-table .display-cell .banner-content2 span{
+    color: #F79F1F;
+}
+
+#about .about-left .bottom-line{
+    background: #F79F1F;
+}
+
+#about .about-left .progress .progress-bar  {
+    background: #F79F1F;
+}
+
+#about .about-right img{
+    border: 1px solid #F79F1F;
+}
+
+#services .single-service .single-service-counter {
+    background: #F79F1F;
+
+}
+
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #F79F1F;
+}
+
+.owl-theme .owl-dots .owl-dot.active span{
+    background: #F79F1F;
+}
+
+
+#portfolio .button.is-checked {
+    color:#F79F1F;
+}
+
+#blog .blog-wrapper .blog-content .news-title a:hover{
+    color: #F79F1F;
+}
+
+#blog .blog-wrapper .blog-content .author .text b a:hover {
+    color:	#F79F1F;
+}
+
+#contact .contact-info .list-inline li i:hover{
+    color: #F79F1F;
+}
+
+#footer .footer-top .social-icons a:hover{
+    color:#F79F1F;
+    background: #fff;
+}
+
+#footer .footer-bottom-content a{
+    color:#F79F1F;
+}
